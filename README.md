@@ -8,7 +8,8 @@ Sample website with plenty of files for demos
 Bla bla bla bla
 ## Second heading
 Adding introduction text
-
+s
 ## Third Heading
-
+Added info at third heading
 #Deplpyment
+This will not be committed
